@@ -1,6 +1,6 @@
 ### Development-Environment-Help
 
-####Git Command Line Crash Course:
+#### Git Command Line Crash Course:
 
 See current changes: *git status*
 
