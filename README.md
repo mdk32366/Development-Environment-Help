@@ -4,6 +4,8 @@
 
 [Dev Website](https://developer.salesforce.com/docs/atlas.en-us.salesforce1.meta/salesforce1/dev_learning_more.htm)
 
+[Trailhead](https://trailhead.salesforce.com/en/users/mkelly4/trailmixes/salesforce-dx-and-cli-w-4-sight)
+
 #### Git Command Line Crash Course:
 
 See current changes: *git status*
